@@ -1,27 +1,40 @@
 {
-	"step1":"A central hub for all your files. Read, listen, view, annotate almost anything you want. Files, documents, books, any content is at home in Documents by Readdle. It’s the Finder for iOS you’ve always wanted.",
-	"step2":"+ Drag and drop files across apps (!). Open two Readdle apps in Split View and simply move files between them, The Documents app brings all your cloud services together — so you can be organized, stay focused, and get in sync with your team. With all your files organized in one central place, you can safely sync them across all your devices and access them anytime, anyplace.",
-	"step3":"Amazing attention to details, unmatched stability, and design differs Documents from any app you have on the iPhone or iPad. You will use it constantly, at home, office, university or on the road, every single day.",
-	"step4":"You will nedd to pass this step verification, it will take few seconds from your time.",
-	"step5":"The Documents app is the most capable application on your device. It’s the hub for all your files as it replaces a document viewer, PDF reader,read it later, music and video player, file downloader, cloud integrator and a bunch of other applications as the one elegant app.",
-	"step6":"The Documents app lets you access and manage your files how ever you want, all in one convenient place. It is perfect for reading EPUB books, viewing Word and Excel documents, opening ZIP files, PDFs, images, downloading MP3 and watching movies on Your Phone",
-	"step7":"Stream your favorite songs from the cloud or download albums and tracks to listen to them offline. The smart and beautiful media player organizes folders into playlists with the ability to shuffle and loop your favorite tracks.",
-	"cpa_link":"https://www.site.com/",
+  
+        "step1":"Various people choose to wager within the entire contest results or intervals. They take all the benefits of the betting tips 1xBeet provides and get their chances to win in Walk",
+	"step2":"if you want to become a win player, you need to follow our 1xBeet today tips. It’ s an excellent chance to gain positive experience for people from all over the world. A player from any country which isn’ t under stops can become a successful bettor below. According to 1xBeet betting tips",
+	"step3":"if you want to become a win player, you need to follow our 1xBeet today tips. It’ s an excellent chance to gain positive experience for people from all over the world. A player from any country which isn’ t under stops can become a successful bettor below. According to 1xBeet betting tips",
+	"step4":"if you want to become a win player, you need to follow our 1xBeet today tips. It’ s an excellent chance to gain positive experience for people from all over the world. A player from any country which isn’ t under stops can become a successful bettor below. According to 1xBeet betting tips",
+	"step5":"if you want to become a win player, you need to follow our 1xBeet today tips. It’ s an excellent chance to gain positive experience for people from all over the world. A player from any country which isn’ t under stops can become a successful bettor below. According to 1xBeet betting tips",
+	"step6":"if you want to become a win player, you need to follow our 1xBeet today tips. It’ s an excellent chance to gain positive experience for people from all over the world. A player from any country which isn’ t under stops can become a successful bettor below. According to 1xBeet betting tips",
+	"step7":"if you want to become a win player, you need to follow our 1xBeet today tips. It’ s an excellent chance to gain positive experience for people from all over the world. A player from any country which isn’ t under stops can become a successful bettor below. According to 1xBeet betting tips",
 
-	"admob_banner1":"ca-app-pub-7436538809891212/7581965563",
-	"admob_inter1":"ca-app-pub-7436538809891212/6953186277",
-	"admob_banner2":"ca-app-pub-7436538809891212/2658718047",
-	"admob_inter2":"ca-app-pub-7436538809891212/5640104601",
-	"admob_banner3":"ca-app-pub-7436538809891212/4518594625",
-	"admob_inter3":"ca-app-pub-7436538809891212/8908980366",
-	"admob_banner4":"ca-app-pub-7436538809891212/9116315185",
-	"admob_inter4":"ca-app-pub-7436538809891212/3260411326",
-
-	"facebook_banner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-	"facebook_inter":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-
+	"CPA_LINK":"https://www.facebook.com/",
+	
+	"admob_banner1":"ca-app-pub-3940256099942544/6300978111",
+	"admob_inter1":"ca-app-pub-3940256099942544/1033173712",
+	"admob_banner2":"ca-app-pub-3940256099942544/6300978111",
+	"admob_inter2":"ca-app-pub-3940256099942544/1033173712",
+	"admob_banner3":"ca-app-pub-3940256099942544/6300978111",
+	"admob_inter3":"ca-app-pub-3940256099942544/1033173712",
+	"admob_banner4":"ca-app-pub-3940256099942544/6300978111",
+	"admob_inter4":"ca-app-pub-3940256099942544/1033173712",
+	
+	"MO_PUB_AD_UNIT_ID":"b195f8dd8ded45fe847ad89ed1d016da",
+	"MO_PUB_BANNER_ID":"b195f8dd8ded45fe847ad89ed1d016da",
+	"MO_PUB_INTERSTITIAL_ID":"24534e1901884e398f1253216226017e",
 	
 	"whichAds":1,
-	"isLastPageShow":false
+
+	"isLastPageShow":true,
+	
+	"is_pop_up_enable":true,
+	"pop_up_title":"Instagram",
+	"pop_up_image_url":"https://i.pinimg.com/originals/cd/64/f3/cd64f3dad47a2d2d05f1765e98642336.png",
+	"pop_up_button_text":"Install Now",
+	"pop_up_link":"https://play.google.com/store/apps/details?id=com.instagram.android",
+	
+	"native_image_url":"https://i.pinimg.com/originals/cd/64/f3/cd64f3dad47a2d2d05f1765e98642336.png",
+	"native_link":"https://www.facebook.com/"
+
 
 }
